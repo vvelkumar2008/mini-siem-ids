@@ -31,12 +31,10 @@ python3 dashboard.py
 Then open http://127.0.0.1:5000 in a browser.
 
 ## Screenshots
-(add the dashboard image here)
+<img width="1840" height="880" alt="Screenshot From 2026-11-11 16-47-19" src="https://github.com/user-attachments/assets/65757a33-ef59-4b23-a9c7-6135b5ccccd1" />
 
-## What I learned
-(write 2 or 3 lines in your own words)
 
 ## Disclaimer
-Built for learning. Only test on machines you own.<img width="1840" height="880" alt="Screenshot From 2026-11-11 16-47-19" src="https://github.com/user-attachments/assets/65757a33-ef59-4b23-a9c7-6135b5ccccd1" />
+Built for learning. Only test on machines you own.
 I created the mini siem+ids using python and ssh ant the virtual mission are ubuntu and kali ,i am used as kali as attacker and ubuntu as a protect sysytem.successfully i completed the project with the help of claude
 
