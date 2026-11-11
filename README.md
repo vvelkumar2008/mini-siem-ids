@@ -30,6 +30,8 @@ python3 dashboard.py
 ```
 Then open http://127.0.0.1:5000 in a browser.
 
+### NOW the link doesn't work it for my VM only .try with your own. ####
+
 ## Screenshots
 <img width="1840" height="880" alt="Screenshot From 2026-11-11 16-47-19" src="https://github.com/user-attachments/assets/65757a33-ef59-4b23-a9c7-6135b5ccccd1" />
 
